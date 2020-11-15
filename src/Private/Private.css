@@ -1,0 +1,33 @@
+.Private
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.private_header
+{
+    font-size: 2rem;
+}
+
+.private_caption
+{
+    font-size: 1rem;
+}
+
+.input_private
+{
+    height: 4vw;
+    margin: 10px;
+    font-size: 3vw;
+    border-radius: 0.5rem;
+}
+
+.private_btn
+{
+    background-color: rgb(200, 200, 200);
+    padding: 5px 15px;
+    cursor: pointer;
+}

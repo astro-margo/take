@@ -1,0 +1,25 @@
+.Message
+{
+    display: flex;
+    flex-direction: column;
+    background-color: lightgray;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+}
+.message_name
+{
+    font-size: 20px;
+}
+.message_ip
+{
+    font-size: 14px;
+}
+.message_time
+{
+    font-size: 14px;
+}
+.message_text
+{
+    font-size: 20px;
+}
